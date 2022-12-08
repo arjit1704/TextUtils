@@ -14,5 +14,9 @@ It is a simple django project or website in which we can Analyze text.
 
 - Fork the repository.
 - Clone the project to your local.
-- Open the project folder with Visual Studio Code or any IDE that you use.
+- Go to the folder in which you have cloned the repositry.
+- Run a command 
+```bash
+python3 manage.py runserver
+```
 - And you are good to go!
