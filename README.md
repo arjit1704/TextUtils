@@ -14,14 +14,32 @@ It is a simple django project or website in which we can Analyze text.
 - Create a new issue if you want a feature, using the same template in issues.
 - Create a new issue if you step across a bug.
 
-### Project Setup
->This is a HTML, CSS and Django based Web app to edit text.
+## Run Locally
 
-- Fork the repository.
-- Clone the project to your local.
-- Go to the folder in which you have cloned the repositry.
-- Run a command 
+Clone the project
+
 ```bash
-python3 manage.py runserver
+  git clone https://github.com/arjit1704
 ```
-- And you are good to go!
+
+Go to the project directory
+
+```bash
+  cd Textedits
+```
+
+Run the server
+
+```bash
+    python3 runserver manage.py
+```
+
+## Support
+
+For support, email arjitgoyal1704@gmail.com .
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
