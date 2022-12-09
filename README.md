@@ -19,7 +19,7 @@ It is a simple django project or website in which we can Analyze text.
 Clone the project
 
 ```bash
-  git clone https://github.com/arjit1704
+  git clone https://github.com/arjit1704/TextEdits
 ```
 
 Go to the project directory
