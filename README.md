@@ -31,7 +31,7 @@ Go to the project directory
 Run the server
 
 ```bash
-    python3 runserver manage.py
+    python3 manage.py runserver
 ```
 
 ## Support
